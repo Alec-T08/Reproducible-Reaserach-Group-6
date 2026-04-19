@@ -57,7 +57,7 @@ Reproducible-Reaserach-Group-6/
 | Name | GitHub |
 |---|---|
 | Abdukholik | @Alec-T08 |
-| *(teammate 2)* | *(GitHub username)* |
+| Tam Nguyen Bang | emma-2304 |
 | *(teammate 3)* | *(GitHub username)* |
 | *(teammate 4)* | *(GitHub username)* |
 
