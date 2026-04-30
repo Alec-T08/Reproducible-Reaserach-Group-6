@@ -65,7 +65,7 @@ Reproducible-Reaserach-Group-6/
 
 ## Reference
 
-> *"Who Profits in a Post-American World?"*, Foreign Affairs, 2025.
+> *"Who Profits in a Post-American World?"*, Foreign Affairs, 2025, Page 26.
 
 ---
 
