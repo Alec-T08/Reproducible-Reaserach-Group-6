@@ -1,0 +1,4 @@
+Period,N obs,β₀ (intercept),β₁ (slope),R²,EG statistic,p-value,CV 5%,Cointegrated (5%)
+Full sample,4045,100.6891,3.1566,0.0711,-1.6217,0.7116,-3.3376,No ✗
+Pre-Liberation Day,3784,102.3389,2.3284,0.0343,-1.2184,0.853,-3.3377,No ✗
+Post-Liberation Day,261,108.9738,2.7291,0.0558,-3.5699,0.0267,-3.3597,Yes ✓

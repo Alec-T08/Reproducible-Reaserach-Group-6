@@ -1,0 +1,7 @@
+Period,H₀ (rank ≤),Trace statistic,CV 5%,Reject H₀ (5%)
+Full sample,0,6.1405,15.4943,No ✗
+Full sample,1,1.4139,3.8415,No ✗
+Pre-Liberation Day,0,5.0439,15.4943,No ✗
+Pre-Liberation Day,1,0.236,3.8415,No ✗
+Post-Liberation Day,0,20.9796,15.4943,Yes ✓
+Post-Liberation Day,1,7.6524,3.8415,Yes ✓
