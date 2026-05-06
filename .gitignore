@@ -1,6 +1,19 @@
+# Python cache
 *.pyc
 __pycache__/
+
+# Virtual environments
 .env
 .venv/
-*.ipynb_checkpoints
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# System files
 .DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
